@@ -6,3 +6,5 @@
 - Resource monitoring: CPU and memory usage
 - GitHub: Remote repository is connected successfully
 - v1.0.0: First tagged release
+- Deployment workflow: Git → Docker Build → Registry → Docker Swarm
+- Rollback tested successfully after failed image deployment
